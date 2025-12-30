@@ -5,10 +5,6 @@ KoetomoApiは、声ともの内部APIにアクセスするPythonクラスです�
 
 ## 必要モジュール
 
-from config import config
-import requests
-import uuid
-
 - config : APIエンドポイントやアプリ情報を設定
 - requests : HTTPリクエスト用
 - uuid : デバイスUID生成用
