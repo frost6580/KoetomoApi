@@ -1,0 +1,15 @@
+class config:
+    USER_AGENT = "S/4.0.117 CFNetwork/3860.300.31 Darwin/25.2.0"
+    HOST_URL = "https://api.meetscom.com"
+    HOST2_URL = "https://api2.meetscom.com"
+    APP_VERSION = "ios_4.0.117"
+    LOGIN_PATH = "/api/account/login"
+    ARRIVAL_PATH = "/api/system/arrival"
+    FEED_PATH = "/api/feed_posts"
+    COMMENT_PATH = "/api/feed/feed_post_comment"
+    LIKE_PATH = "/api/feed/feed_post_liked_user"
+    CANSEND_PATH = "/api/chats/can_send"
+    MESSAGES_PATH = "/api/chat/messages"
+    FOLLOW_PATH = "/api/relation/follow"
+    REQUESTS_PATH = "/dive/requests"
+
